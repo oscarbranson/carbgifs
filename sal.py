@@ -11,7 +11,7 @@ fps = 15
 # the pressure range
 xS = np.linspace(15, 40, nframes)
 
-fname = f'animations/Press_{xS[0]:.0f}_{xS[-1]:.0f}'
+fname = f'animations/Sal_{xS[0]:.0f}_{xS[-1]:.0f}'
 
 # background state
 step = 1
