@@ -91,3 +91,4 @@ def animate_S(i):
 # make animation
 anim  = animation.FuncAnimation(fig, animate_S, frames=nframes)
 anim.save(fname + '.mp4', fps=fps)
+anim.save(fname + '.gif', fps=fps)
