@@ -8,6 +8,10 @@ This one shows how the relationship between total Dissolved Inorganic Carbon (DI
 
 ![Carbon with Temperature](animations/Temp_5_35.gif)
 
+This one shows how this plays out in the oceans. Changes in temperature, salinity and pressure as water moves from the deep NE Pacific to the surface drive big changes in carbon speciation. This is the mechanisms behind the [solubility pump](https://en.wikipedia.org/wiki/Solubility_pump#:~:text=In%20oceanic%20biogeochemistry%2C%20the%20solubility,ocean's%20surface%20to%20its%20interior)!
+
+![NE Pacific Upwelling](animations/NEPacific_5181-0m.gif)
+
 ## More?
 
 So far I've done temperature, salinity and pressure.
